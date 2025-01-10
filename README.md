@@ -273,3 +273,4 @@ We are working on building a community, if you have any ideas for building the c
 [![](https://dcbadge.vercel.app/api/server/7uQnPuveTY?compact=true&style=flat)](https://discord.gg/7uQnPuveTY)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=csunny/DB-GPT&type=Date)](https://star-history.com/#csunny/DB-GPT)
+# Adding a simple comment to test PR workflow
